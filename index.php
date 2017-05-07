@@ -16,7 +16,7 @@
     <div class="container_12" id="main_wrapper">
         <div class="grid_12" id="header">
             <div class="grid_4" id="logo">
-                <a href="#">Logo</a>
+                <a href="#">CodeIT</a>
             </div>
             <div class="grid_6" id="search">
                 <form>
