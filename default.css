@@ -1,0 +1,101 @@
+#main_wrapper{
+    background-color: black;
+    height: auto;
+}
+#header{
+    height: 150px;
+    background-color: white;
+    margin:10px;
+}
+#nav{
+    height: 60px;
+    background-color: white;
+    text-align: center;
+}
+#slider{
+    height: 450px;
+    background-color: white;
+    margin-top:10px;
+}
+#side_bar{
+    height: 400px;
+    background-color: white;
+    margin-top:10px;
+}
+#bests{
+    height: auto;
+    margin-top:10px;
+    background-color: #cccccc;
+}
+#best{
+    margin-top:10px;
+    margin-bottom:10px;
+    margin-left:10px;
+    margin-right:0px;
+    height: 200px;
+    background-color: white;
+}
+#articles{
+    height: auto;
+    margin-top:10px;
+    background-color: #cccccc;
+}
+#article{
+    margin-top:10px;
+    margin-bottom:10px;
+    margin-left:10px;
+    margin-right:0px;
+    height: 350px;
+    background-color: white;
+}
+#best:nth-child(1){
+    margin-left:25px;
+}
+#footer{
+    height: auto;
+    background-color: white;
+}
+#contact{
+    height: 250px;
+    background-color: yellow;
+    margin-top:10px;
+    margin-right:0px;
+}
+#support{
+    height: 250px;
+    background-color: yellow;
+    margin-top:10px;
+    margin-right: 0px;
+}
+#about{
+    height: 250px;
+    background-color: yellow;
+    margin-top:10px;
+    margin-right:0px;
+}
+/**/
+#logo{
+    font-size:60px;
+    margin-left:30px;
+    margin-top:20px;
+    margin-right: 0px;
+}
+#search{
+    text-align: center;
+    margin-top:25px;
+    margin-left:60px;
+}
+#search input{
+    font-size:20px;
+    padding: 5px;
+}
+#nav ul{
+    list-style:none;
+    margin-top:10px;
+    
+}
+#nav ul li {
+    display: inline-block;
+    font-size:25px;
+    margin-left: 60px;
+}
